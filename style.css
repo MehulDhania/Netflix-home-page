@@ -11,7 +11,7 @@ body{
 
 .root{
     background-size: cover;
-    background-image: radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)),url("../image/IN-en-20230828-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-image: radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)),url("../IN-en-20230828-popsignuptwoweeks-perspective_alpha_website_small.jpg");
     background-repeat: no-repeat;
     background-position: center;
     
